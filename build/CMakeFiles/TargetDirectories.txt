@@ -57,3 +57,10 @@
 /home/aakash/simulation_ws/build/m2wr_description/CMakeFiles/roscpp_generate_messages_nodejs.dir
 /home/aakash/simulation_ws/build/m2wr_description/CMakeFiles/std_msgs_generate_messages_py.dir
 /home/aakash/simulation_ws/build/m2wr_description/CMakeFiles/test.dir
+/home/aakash/simulation_ws/build/my_worlds/CMakeFiles/install/strip.dir
+/home/aakash/simulation_ws/build/my_worlds/CMakeFiles/edit_cache.dir
+/home/aakash/simulation_ws/build/my_worlds/CMakeFiles/list_install_components.dir
+/home/aakash/simulation_ws/build/my_worlds/CMakeFiles/test.dir
+/home/aakash/simulation_ws/build/my_worlds/CMakeFiles/install/local.dir
+/home/aakash/simulation_ws/build/my_worlds/CMakeFiles/rebuild_cache.dir
+/home/aakash/simulation_ws/build/my_worlds/CMakeFiles/install.dir

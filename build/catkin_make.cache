@@ -1,2 +1,2 @@
-m2wr_description
+m2wr_description:my_worlds
 -DCATKIN_DEVEL_PREFIX=/home/aakash/simulation_ws/devel -DCMAKE_INSTALL_PREFIX=/home/aakash/simulation_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/aakash/simulation_ws/devel
+
+Name: robot_gabebo
+Description: Description of robot_gabebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/aakash/simulation_ws/devel/lib 
+Requires: 

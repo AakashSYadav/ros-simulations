@@ -132,6 +132,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/aakash/simulation_ws/build/gtest/cmake_install.cmake")
   include("/home/aakash/simulation_ws/build/m2wr_description/cmake_install.cmake")
+  include("/home/aakash/simulation_ws/build/my_worlds/cmake_install.cmake")
 
 endif()
 

@@ -1,0 +1,8 @@
+prefix=/home/aakash/simulation_ws/devel
+
+Name: my_world
+Description: Description of my_world
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/aakash/simulation_ws/devel/lib 
+Requires: 
